@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c93f3c-ced9-4ad9-82a3-ac91dc5f9401" name="Changes" comment="" />
+    <list default="true" id="12c93f3c-ced9-4ad9-82a3-ac91dc5f9401" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,12 +25,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1753034457" />
+                    <option name="branchName" value="feature-branch" />
+                    <option name="lastUsedInstant" value="1753110054" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1753034456" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1753034930" />
                   </RecentBranch>
                 </list>
               </option>
@@ -51,7 +54,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature-branch",
     "last_opened_file_path": "C:/Users/xleezy/WebstormProjects/git_learning",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -77,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1753033831932</updated>
       <workItem from="1753033832912" duration="302000" />
-      <workItem from="1753034291992" duration="301000" />
+      <workItem from="1753034291992" duration="876000" />
+      <workItem from="1753109232209" duration="902000" />
     </task>
     <servers />
   </component>

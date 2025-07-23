@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c93f3c-ced9-4ad9-82a3-ac91dc5f9401" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="12c93f3c-ced9-4ad9-82a3-ac91dc5f9401" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +21,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev-xl33zy" />
+                    <option name="lastUsedInstant" value="1753292273" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="feature-branch" />
                     <option name="lastUsedInstant" value="1753110054" />
@@ -54,7 +55,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature-branch",
+    "git-widget-placeholder": "dev-xl33zy",
     "last_opened_file_path": "C:/Users/xleezy/WebstormProjects/git_learning",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
